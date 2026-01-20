@@ -1,24 +1,17 @@
 // src/data/appointments.js
 
 export const hardcodedAppointments = [
+ 
   {
     id: 1,
     patientEmail: "jane@example.com",
-    doctorEmail: "john@example.com",
-    date: "2025-12-12",
-    time: "09:00 AM",
+    doctorEmail: "sarah@example.com",
+    date: "2026-02-01",
+    time: "11:00 AM",
     status: "Pending",
   },
   {
     id: 2,
-    patientEmail: "jane@example.com",
-    doctorEmail: "sarah@example.com",
-    date: "2025-12-13",
-    time: "11:00 AM",
-    status: "Confirm",
-  },
-  {
-    id: 3,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-12",
@@ -26,7 +19,7 @@ export const hardcodedAppointments = [
     status: "Pending",
   },
   {
-    id: 4,
+    id: 3,
     patientEmail: "mike@example.com",
     doctorEmail: "sarah@example.com",
     date: "2025-12-14",
@@ -34,7 +27,7 @@ export const hardcodedAppointments = [
     status: "Declined",
   },
   {
-    id: 5,
+    id: 4,
     patientEmail: "jane@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-15",
@@ -42,7 +35,7 @@ export const hardcodedAppointments = [
     status: "Confirm",
   },
   {
-    id: 6,
+    id: 5,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-16",
@@ -50,15 +43,7 @@ export const hardcodedAppointments = [
     status: "Cancelled",
   },
   {
-    id: 7,
-    patientEmail: "jane@example.com",
-    doctorEmail: "sarah@example.com",
-    date: "2025-12-17",
-    time: "09:30 AM",
-    status: "Pending",
-  },
-  {
-    id: 8,
+    id: 6,
     patientEmail: "mike@example.com",
     doctorEmail: "sarah@example.com",
     date: "2025-12-18",
@@ -66,7 +51,7 @@ export const hardcodedAppointments = [
     status: "Confirm",
   },
   {
-    id: 9,
+    id: 7,
     patientEmail: "jane@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-19",
@@ -74,7 +59,7 @@ export const hardcodedAppointments = [
     status: "Declined",
   },
   {
-    id: 10,
+    id: 8,
     patientEmail: "mike@example.com",
     doctorEmail: "john@example.com",
     date: "2025-12-20",
