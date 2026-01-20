@@ -30,7 +30,7 @@ export const patientHistories = [
     ],
   },
   {
-    patientEmail: "john@example.com",
+    patientEmail: "mike@example.com",
     records: [
       {
         date: "2025-11-05",
@@ -55,7 +55,7 @@ export const patientHistories = [
             frequency: 2
           }
         ],
-        doctorEmail: "sarah@example.com",
+        doctorEmail: "john@example.com",
       },
     ],
   },
