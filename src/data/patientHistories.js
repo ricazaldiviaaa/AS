@@ -7,7 +7,7 @@ export const patientHistories = [
         diagnosis: "Allergy",
         prescriptions: [
           {
-            brand: "Antihistamine",
+            brand: "Anti",
             strengthValue: 10,
             strengthUnit: "mg",
             dosage: "Tablet",
@@ -16,7 +16,7 @@ export const patientHistories = [
             frequency: 1
           },
           {
-            brand: "Nasal Spray",
+            brand: "Nasal",
             strengthValue: 2,
             strengthUnit: "ml",
             dosage: "Spray",
