@@ -1,5 +1,5 @@
 import { Outlet, NavLink, useNavigate } from "react-router-dom";
-import { HomeIcon, CalendarIcon, ClockIcon, UserIcon, DocumentTextIcon, PlusIcon, ArrowRightOnRectangleIcon } from "@heroicons/react/24/solid";
+import { HomeIcon, CalendarIcon, UserIcon, DocumentTextIcon, PlusIcon, ArrowRightOnRectangleIcon } from "@heroicons/react/24/solid";
 
 function PatientLayout() {
   const navigate = useNavigate();
