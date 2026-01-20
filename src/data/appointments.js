@@ -1,12 +1,11 @@
 // src/data/appointments.js
 
 export const hardcodedAppointments = [
- 
   {
     id: 1,
     patientEmail: "jane@example.com",
     doctorEmail: "sarah@example.com",
-    date: "2026-02-01",
+    date: "2026-12-13",
     time: "11:00 AM",
     status: "Pending",
   },
